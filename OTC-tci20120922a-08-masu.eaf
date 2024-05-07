@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-05-06T14:36:05+01:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-05-07T14:04:25+01:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -12,8 +12,8 @@
         <PROPERTY NAME="lastUsedAnnotationId">5012</PROPERTY>
     </HEADER>
     <TIME_ORDER>
-        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="4891"/>
-        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="6811"/>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="4410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="6520"/>
         <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="8301"/>
         <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="10876"/>
         <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="12043"/>
