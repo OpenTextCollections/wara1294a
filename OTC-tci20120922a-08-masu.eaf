@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-05-14T10:11:16+01:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-05-22T14:29:34+01:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///Volumes/etha/corpus/2012 09 22 - 1 - srik - 4 - masu/tci20120922a-08.wav" MIME_TYPE="audio/x-wav"/>
-        <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///Volumes/etha/corpus/2012 09 22 - 1 - srik - 4 - masu/tci20120922v-08.mpeg"
-            MIME_TYPE="video/mpeg" TIME_ORIGIN="83895"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:b1fe9c27-8af9-4eb4-9541-a1e87fc6fad6</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">5012</PROPERTY>
     </HEADER>
@@ -5258,7 +5253,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2909" ANNOTATION_REF="a2009" PREVIOUS_ANNOTATION="a2908">
-                <ANNOTATION_VALUE>r</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=r</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8712,7 +8707,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3603" ANNOTATION_REF="a2909">
-                <ANNOTATION_VALUE>PURP</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=PURP</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

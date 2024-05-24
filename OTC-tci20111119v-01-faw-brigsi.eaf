@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-05-14T11:51:46+01:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-05-22T14:28:47+01:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR
-            EXTRACTED_FROM="file:///Volumes/etha/corpus/2011 11 19 - 01 - Abia/tci20111119v-01.mpeg"
-            MEDIA_URL="file:///Volumes/etha/corpus/2011 11 19 - 01 - Abia/tci20111119v-01.wav" MIME_TYPE="audio/x-wav"/>
-        <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///Volumes/etha/corpus/2011 11 19 - 01 - Abia/tci20111119v-01.mpeg" MIME_TYPE="video/mpeg"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:063e8dfe-d666-48f8-9417-8df8a47f3522</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">6548</PROPERTY>
     </HEADER>
@@ -7165,7 +7160,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3852" ANNOTATION_REF="a2001">
-                <ANNOTATION_VALUE>z</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>z=</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8690,7 +8685,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6006" ANNOTATION_REF="a5787">
-                <ANNOTATION_VALUE>nz</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nz=</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -9075,7 +9070,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6029" ANNOTATION_REF="a5805" PREVIOUS_ANNOTATION="a6028">
-                <ANNOTATION_VALUE>yé</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=é</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -9085,7 +9080,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6031" ANNOTATION_REF="a5806" PREVIOUS_ANNOTATION="a6030">
-                <ANNOTATION_VALUE>yé</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=é</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -9110,7 +9105,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4247" ANNOTATION_REF="a2356">
-                <ANNOTATION_VALUE>z</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>z=</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -9410,7 +9405,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4307" ANNOTATION_REF="a2408">
-                <ANNOTATION_VALUE>wa\ythk/a</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>w\ythk/a</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -9480,7 +9475,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4321" ANNOTATION_REF="a2419">
-                <ANNOTATION_VALUE>zwa\ythk/</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>zw\ythk/</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -11684,7 +11679,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4470" ANNOTATION_REF="a3852">
-                <ANNOTATION_VALUE>PROX</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>PROX=</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -13209,7 +13204,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6241" ANNOTATION_REF="a6006">
-                <ANNOTATION_VALUE>IMM</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>IMM=</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -13594,7 +13589,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6264" ANNOTATION_REF="a6029">
-                <ANNOTATION_VALUE>ERG.NSG</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=ERG.NSG</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -13604,7 +13599,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6266" ANNOTATION_REF="a6031">
-                <ANNOTATION_VALUE>ERG.NSG</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=ERG.NSG</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -13629,7 +13624,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4865" ANNOTATION_REF="a4247">
-                <ANNOTATION_VALUE>PROX</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>PROX=</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -14353,7 +14348,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5642" ANNOTATION_REF="a5604">
-                <ANNOTATION_VALUE>clitic</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>demonstrative</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

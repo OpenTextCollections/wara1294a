@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-05-14T11:26:25+01:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-05-22T14:28:06+01:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR
-            EXTRACTED_FROM="file:///Volumes/etha/corpus/2013 09 03 - 04 - fenz yonasi/tci20130903v-04.mpg"
-            MEDIA_URL="file:///Volumes/etha/corpus/2013 09 03 - 04 - fenz yonasi/tci20130903v-04.wav" MIME_TYPE="audio/x-wav"/>
-        <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///Volumes/etha/corpus/2013 09 03 - 04 - fenz yonasi/tci20130903v-04.mpg"
-            MIME_TYPE="video/mpeg" TIME_ORIGIN="600"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:daf9cd40-245a-4b48-8a22-1e8142296271</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">7844</PROPERTY>
     </HEADER>
@@ -4724,7 +4718,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5497" ANNOTATION_REF="a4527" PREVIOUS_ANNOTATION="a5496">
-                <ANNOTATION_VALUE>ane</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=ane</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8308,7 +8302,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5652" ANNOTATION_REF="a5497">
-                <ANNOTATION_VALUE>POSS.SG</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=POSS.SG</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

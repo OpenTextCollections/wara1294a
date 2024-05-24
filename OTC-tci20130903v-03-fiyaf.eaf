@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-05-14T11:21:49+01:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-05-22T13:58:17+01:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR
-            EXTRACTED_FROM="file:///Volumes/etha/corpus/2013 09 03 - 03 - fiyaf trikasi/tci20130903v-03.mpg"
-            MEDIA_URL="file:///Users/christiandohler/Downloads/tci20130903v-03.wav"
-            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../../Downloads/tci20130903v-03.wav"/>
-        <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///Volumes/etha/corpus/2013 09 03 - 03 - fiyaf trikasi/tci20130903v-03.mpg"
-            MIME_TYPE="video/mpeg" TIME_ORIGIN="545"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:e04f2697-84c9-4a27-8b6f-66377d1e20b3</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">5555</PROPERTY>
     </HEADER>
@@ -309,8 +302,6 @@
         <TIME_SLOT TIME_SLOT_ID="ts293" TIME_VALUE="518140"/>
         <TIME_SLOT TIME_SLOT_ID="ts294" TIME_VALUE="519260"/>
     </TIME_ORDER>
-    <TIER DEFAULT_LOCALE="de" LINGUISTIC_TYPE_REF="researcher"
-        PARTICIPANT="Christian Döhler" TIER_ID="tx@CD"/>
     <TIER ANNOTATOR="Christian Döhler" DEFAULT_LOCALE="de"
         LINGUISTIC_TYPE_REF="text" PARTICIPANT="Maembu Kwozi" TIER_ID="tx@MKW">
         <ANNOTATION>

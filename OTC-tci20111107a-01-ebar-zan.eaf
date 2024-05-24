@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-05-14T11:45:04+01:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-05-22T13:55:40+01:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///Volumes/etha/corpus/2011 11 07 - 01 - maraga kwozi - headhunting/tci20111107a-01.wav"
-            MIME_TYPE="audio/x-wav" TIME_ORIGIN="46175"/>
-        <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///Users/christiandohler/Downloads/tci20111107v-01.mpeg"
-            MIME_TYPE="video/mpeg" RELATIVE_MEDIA_URL="../../../Downloads/tci20111107v-01.mpeg"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:b1c13e4f-78c7-4fe2-88bc-3dfc2064495b</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">7222</PROPERTY>
     </HEADER>

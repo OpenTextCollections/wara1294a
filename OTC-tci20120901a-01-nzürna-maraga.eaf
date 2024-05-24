@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-05-14T11:07:29+01:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-05-22T13:52:39+01:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///Volumes/etha/corpus/2012 09 01 - maraga - 1 - nzürna/tci20120901CDa-01.wav"
-            MIME_TYPE="audio/x-wav" TIME_ORIGIN="22035"/>
-        <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///Volumes/etha/corpus/2012 09 01 - maraga - 1 - nzürna/tci20120901CDv-01.mpeg" MIME_TYPE="video/mpeg"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:cea9a2c6-f932-4c05-a6f6-ab84989f0005</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">10182</PROPERTY>
     </HEADER>

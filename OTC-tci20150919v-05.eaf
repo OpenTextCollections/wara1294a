@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-05-14T11:32:43+01:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-05-22T13:59:58+01:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR
-            EXTRACTED_FROM="file:///Volumes/etha/corpus/2015 09 19 - night fire lucys story/tci20150919-05.mpeg"
-            MEDIA_URL="file:///Volumes/etha/corpus/2015 09 19 - night fire lucys story/tci20150919-05.wav" MIME_TYPE="audio/x-wav"/>
-        <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///Volumes/etha/corpus/2015 09 19 - night fire lucys story/tci20150919-05.mpeg" MIME_TYPE="video/mpeg"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:a8881572-4f20-4843-950b-cda191cf7fea</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">16284</PROPERTY>
     </HEADER>
@@ -29533,28 +29528,23 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
-        GRAPHIC_REFERENCES="false" LEXICON_REF="lr1"
-        LINGUISTIC_TYPE_ID="word2" TIME_ALIGNABLE="true"/>
     <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
-        GRAPHIC_REFERENCES="false" LEXICON_REF="lr2"
+        GRAPHIC_REFERENCES="false" LEXICON_REF="lr1"
         LINGUISTIC_TYPE_ID="gloss" TIME_ALIGNABLE="false"/>
-    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
-        LINGUISTIC_TYPE_ID="researcher" TIME_ALIGNABLE="true"/>
     <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
         LINGUISTIC_TYPE_ID="text" TIME_ALIGNABLE="true"/>
     <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision"
-        GRAPHIC_REFERENCES="false" LEXICON_REF="lr3"
+        GRAPHIC_REFERENCES="false" LEXICON_REF="lr2"
         LINGUISTIC_TYPE_ID="morpheme" TIME_ALIGNABLE="false"/>
     <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
-        GRAPHIC_REFERENCES="false" LEXICON_REF="lr4"
+        GRAPHIC_REFERENCES="false" LEXICON_REF="lr3"
         LINGUISTIC_TYPE_ID="pos" TIME_ALIGNABLE="false"/>
     <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
         GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="false"/>
     <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
         GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="comment" TIME_ALIGNABLE="false"/>
     <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision"
-        GRAPHIC_REFERENCES="false" LEXICON_REF="lr5"
+        GRAPHIC_REFERENCES="false" LEXICON_REF="lr4"
         LINGUISTIC_TYPE_ID="word" TIME_ALIGNABLE="false"/>
     <LOCALE COUNTRY_CODE="DE" LANGUAGE_CODE="de"/>
     <CONSTRAINT
@@ -29564,21 +29554,18 @@
     <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
     <CONSTRAINT
         DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
-    <LEXICON_REF DATCAT_ID="" DATCAT_NAME="lexical-unit"
+    <LEXICON_REF DATCAT_ID="" DATCAT_NAME="sense/gloss"
         LEXICON_ID="Komnzo_1" LEXICON_NAME="Komnzo_1" LEX_REF_ID="lr1"
         NAME="Komnzo_1" TYPE="ELAN Lexicon Component" URL=""/>
-    <LEXICON_REF DATCAT_ID="" DATCAT_NAME="citation"
+    <LEXICON_REF DATCAT_ID="" DATCAT_NAME="sense/grammatical-category"
         LEXICON_ID="Komnzo_1" LEXICON_NAME="Komnzo_1" LEX_REF_ID="lr3"
         NAME="Komnzo_1" TYPE="ELAN Lexicon Component" URL=""/>
-    <LEXICON_REF DATCAT_ID="" DATCAT_NAME="sense/gloss"
+    <LEXICON_REF DATCAT_ID="" DATCAT_NAME="citation"
         LEXICON_ID="Komnzo_1" LEXICON_NAME="Komnzo_1" LEX_REF_ID="lr2"
         NAME="Komnzo_1" TYPE="ELAN Lexicon Component" URL=""/>
     <LEXICON_REF DATCAT_ID="" DATCAT_NAME="lexical-unit"
-        LEXICON_ID="Komnzo_1" LEXICON_NAME="Komnzo_1" LEX_REF_ID="lr5"
-        NAME="Komnzo_1" TYPE="ELAN Lexicon Component" URL=""/>
-    <LEXICON_REF DATCAT_ID="" DATCAT_NAME="sense/grammatical-category"
         LEXICON_ID="Komnzo_1" LEXICON_NAME="Komnzo_1" LEX_REF_ID="lr4"
         NAME="Komnzo_1" TYPE="ELAN Lexicon Component" URL=""/>
     <LEXICON_REF LEXICON_ID="Komnzo" LEXICON_NAME="Komnzo"
-        LEX_REF_ID="lr6" NAME="Komnzo" TYPE="ELAN Lexicon Component" URL=""/>
+        LEX_REF_ID="lr5" NAME="Komnzo" TYPE="ELAN Lexicon Component" URL=""/>
 </ANNOTATION_DOCUMENT>

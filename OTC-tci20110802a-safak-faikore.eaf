@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-05-14T10:40:27+01:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-05-22T14:27:33+01:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///Volumes/Bine/__Komnzo-corpus/2011 08 02 - safak menz a faikore menz/tci20110802v.mpeg"
-            MIME_TYPE="video/mpeg" TIME_ORIGIN="694"/>
-        <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///Users/christiandohler/Downloads/tci20110802a.WAV"
-            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../../Downloads/tci20110802a.WAV"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:78447bd0-520d-4899-9fee-e0bb0157bbc6</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">11243</PROPERTY>
     </HEADER>
@@ -11475,7 +11469,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a10497" ANNOTATION_REF="a9555">
-                <ANNOTATION_VALUE>clitic</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>prefix</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -11615,7 +11609,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a10990" ANNOTATION_REF="a10758">
-                <ANNOTATION_VALUE>clitic</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>prefix</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -11860,7 +11854,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a10262" ANNOTATION_REF="a9626">
-                <ANNOTATION_VALUE>clitic</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>prefix</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -11990,7 +11984,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a10289" ANNOTATION_REF="a9653">
-                <ANNOTATION_VALUE>clitic</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>prefix</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12140,7 +12134,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a10319" ANNOTATION_REF="a9683">
-                <ANNOTATION_VALUE>clitic</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>prefix</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

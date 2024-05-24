@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-05-14T11:12:51+01:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-05-22T14:27:50+01:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///Volumes/etha/corpus/2012 08 27 - kurai/tci20120827CDa-03.WAV"
-            MIME_TYPE="audio/x-wav" TIME_ORIGIN="9596"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:4557e3f7-7364-4f36-826c-ecea6d0b955e</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">6810</PROPERTY>
     </HEADER>
@@ -17334,7 +17331,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5927" ANNOTATION_REF="a3955">
-                <ANNOTATION_VALUE>clitic</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>prefix</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
