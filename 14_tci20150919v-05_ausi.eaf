@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-11-08T09:37:21+01:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-11-13T08:36:49+01:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -2279,12 +2279,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4861" ANNOTATION_REF="a3089">
-                <ANNOTATION_VALUE>There used to be these food houses.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>There used to be these cafeteria buildings.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4865" ANNOTATION_REF="a3093">
-                <ANNOTATION_VALUE>It was accommodation for the workers there.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>For those workers, their cafeteria and accommodation buildings.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
