@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-11-11T22:54:06+01:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-11-13T08:53:38+01:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -14622,7 +14622,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8052" ANNOTATION_REF="a6989">
-                <ANNOTATION_VALUE>pityful</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pitiful</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -14847,7 +14847,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8098" ANNOTATION_REF="a7035">
-                <ANNOTATION_VALUE>pityful</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pitiful</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -14862,7 +14862,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8101" ANNOTATION_REF="a7038">
-                <ANNOTATION_VALUE>pityful</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pitiful</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -14912,7 +14912,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8112" ANNOTATION_REF="a7049">
-                <ANNOTATION_VALUE>pityful</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pitiful</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -14927,7 +14927,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8115" ANNOTATION_REF="a7052">
-                <ANNOTATION_VALUE>pityful</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pitiful</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -14997,7 +14997,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8130" ANNOTATION_REF="a7067">
-                <ANNOTATION_VALUE>pityful</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pitiful</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

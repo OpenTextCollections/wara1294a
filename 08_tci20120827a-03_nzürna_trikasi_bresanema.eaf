@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-11-12T00:34:32+01:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-11-13T08:54:20+01:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -11337,7 +11337,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4608" ANNOTATION_REF="a3627">
-                <ANNOTATION_VALUE>pityful</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pitiful</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -13752,7 +13752,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5118" ANNOTATION_REF="a4137">
-                <ANNOTATION_VALUE>pityful</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pitiful</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
