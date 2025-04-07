@@ -163,7 +163,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ContributionTable",
             "dc:description": "A collection of texts from one language, with shared provenance.",
-            "dc:extent": 14,
+            "dc:extent": 8,
             "tableSchema": {
                 "columns": [
                     {
@@ -211,15 +211,62 @@
                         "name": "Examples_Count"
                     },
                     {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#mediaReference",
+                        "dc:extent": "multivalued",
+                        "separator": "\t",
+                        "required": false,
+                        "name": "Media_Reference"
+                    }
+                ],
+                "foreignKeys": [
+                            {
+                        "columnReference": [
+                            "Media_Reference"
+                        ],
+                        "reference": {
+                            "resource": "media.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "texts.csv"
+        },
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#MediaTable",
+            "dc:description": "Media resources for the texts.",
+            "dc:extent": 3,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[^/]+/.+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#mediaType",
+                        "required": true,
+                        "name": "Media_Type"
+                    },
+                    {
                         "datatype": "anyURI",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#downloadUrl",
                         "required": false,
                         "name": "Download_URL"
-                    },
-                    {
-                        "datatype": "anyURI",
-                        "required": false,
-                        "name": "Media_DOI"
                     }
                 ],
                 "foreignKeys": [],
@@ -227,7 +274,8 @@
                     "ID"
                 ]
             },
-            "url": "texts.csv"
+            "url": "media.csv"
         }
+
     ]
 }
