@@ -7,4 +7,4 @@ The texts were narrated by Ruth Abia, Lucy Abia, Daure Kaumb, Maembu Kwozi, Kura
 
 The files in this repository contain the texts in the CLDF and Elan/eaf formats. A human readable version of the book is available at https://zenodo.org/records/14214653
 
-Additionally, the file `OTC1.csv` contains all examples in one file for easier batch processing.
+Additionally, the file `sentences.csv` contains all examples in one file for easier batch processing.
